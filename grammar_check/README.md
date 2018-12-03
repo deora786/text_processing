@@ -1,4 +1,4 @@
-grammer correction using language check tool https://github.com/myint/language-check
+grammar correction using language check tool https://github.com/myint/language-check
 
 installation:
 pip install --upgrade language-check
